@@ -1,2 +1,2 @@
 # oo-sabor-express-venv
- Projeto de restaurantes com importação de APÌ usando FastAPI no Python
+ Projeto de restaurantes com integração de API usando FastAPI no Python
